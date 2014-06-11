@@ -1,0 +1,40 @@
+# Column 1: Flag to reduce in script (1=yes, 0=no)
+# Column 2: track
+# Column 3: flagging script name
+# Column 4: source
+# Column 5: flux cal
+# Column 6: bandpass cal
+# column 7: phase cal
+# column 8: reference antenna
+# column 9: model image
+n d_track1  flag_d_1.py		M31*	3C48	3C48	J0029+3456	ea11	3C48_L.im
+y d_track2  flag_d_2.py		M31*	3C48	3C48	J0029+3456	ea11	3C48_L.im
+n d_track3  flag_d_3.py		M31*	3C48	3C48	J0029+3456	ea11	3C48_L.im
+n d_track4  flag_d_4.py		M31*	3C48	3C48	J0029+3456	ea11	3C48_L.im
+n d_track5  flag_d_5.py		M31*	3C48	3C48	J0029+3456	ea11	3C48_L.im
+n c_track1  flag_c_1.py		M31*	3C48	3C48	J0029+3456	ea02	3C48_L.im
+n c_track2  flag_c_2.py		M31*	3C48	3C48	J0029+3456	ea02	3C48_L.im
+n c_track3  flag_c_3.py		M31*	3C48	3C48	J0029+3456	ea02	3C48_L.im
+n c_track4  flag_c_4.py		M31*	3C48	3C48	J0029+3456	ea02	3C48_L.im
+n c_track5  flag_c_5.py		M31*	3C48	3C48	J0029+3456	ea02	3C48_L.im
+n c_track6  flag_c_6.py		M31*	3C48	3C48	J0029+3456	ea02	3C48_L.im
+n b_track1  flag_b_1.py		M31*	3C48	3C48	J0029+3456	ea12	3C48_L.im
+n b_track2  flag_b_2.py		M31*	3C48	3C48	J0029+3456	ea12	3C48_L.im
+n b_track3  flag_b_3.py		M31*	3C48	3C48	J0029+3456	ea12	3C48_L.im
+n b_track4  flag_b_4.py		M31*	3C48	3C48	J0029+3456	ea12	3C48_L.im
+n b_track5  flag_b_5.py		M31*	3C48	3C48	J0029+3456	ea12	3C48_L.im
+n b_track6  flag_b_6.py		M31*	3C48	3C48	J0029+3456	ea12	3C48_L.im
+n b_track7  flag_b_7.py		M31*	3C48	3C48	J0029+3456	ea12	3C48_L.im
+n b_track8  flag_b_8.py		M31*	3C48	3C48	J0029+3456	ea12	3C48_L.im
+n b_track9  flag_b_9.py		M31*	3C48	3C48	J0029+3456	ea12	3C48_L.im
+n b_track10 flag_b_10.py	M31*	3C48	3C48	J0029+3456	ea12	3C48_L.im
+n b_track11 flag_b_11.py	M31*	3C48	3C48	J0029+3456	ea12	3C48_L.im
+n b_track12 flag_b_12.py	M31*	3C48	3C48	J0029+3456	ea12	3C48_L.im
+n b_track13 flag_b_13.py	M31*	3C48	3C48	J0029+3456	ea12	3C48_L.im
+n b_track14 flag_b_14.py	M31*	3C48	3C48	J0029+3456	ea12	3C48_L.im
+n b_track15 flag_b_15.py	M31*	3C48	3C48	J0029+3456	ea12	3C48_L.im
+n b_track16 flag_b_16.py	M31*	3C48	3C48	J0029+3456	ea12	3C48_L.im
+
+
+
+

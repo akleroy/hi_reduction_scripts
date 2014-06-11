@@ -1,0 +1,44 @@
+CALIBRATED AND FLAGGED
+
+- these still need a solution to the Milky Way HI absorption on the
+  bandpass calibrator. Flag those channels? Use phase calibrator for
+  bandpass cal on SPW 0? Interpolate? Other thoughts?
+
+d_track1  
+d_track2  
+d_track3  
+d_track4  
+d_track5  
+c_track1  
+c_track2  
+c_track3  
+c_track4  
+c_track5  
+c_track6  
+b_track1  
+b_track2  
+b_track3  
+b_track4  
+b_track5  
+b_track6  
+
+CALIBRATED BUT NOT FLAGGED
+
+- first calibration run done
+
+- need to inspect, write flagging scripts, rerun calibration
+
+b_track7  
+b_track8  
+b_track9  
+b_track10 
+b_track11 
+b_track12 
+b_track13 
+b_track14 
+b_track15 
+b_track16 
+
+
+
+

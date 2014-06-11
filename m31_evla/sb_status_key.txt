@@ -1,0 +1,38 @@
+# Column 1: MS Name
+# Column 2: Config
+# Column 3: Name to Use
+# Column 4: Reduction Status
+D	d_track1	looks good to me
+D	d_track2	looks good to me
+D	d_track3	looks good to me
+D	d_track4	some noise in bpcal but OK
+D	d_track5	some absorption in phasecal but OK
+C	c_track1	AKL_to_check
+C	c_track2	AKL_to_check
+C	c_track3	AKL_to_check
+C	c_track4	AKL_to_check
+C	c_track5	AKL_to_check
+C	c_track6 	AKL_to_check
+B	b_track1	AKL_to_check
+B	b_track2	AKL_to_check
+B	b_track3	AKL_to_check
+B	b_track4	AKL_to_check
+B	b_track5	AKL_to_check
+B	b_track6	CL_to_reduce
+B	b_track7	CL_to_reduce
+B	b_track8	CL_to_reduce
+B	b_track9	CL_to_reduce
+B	b_track10	CL_to_reduce
+B	b_track11	CL_to_reduce
+B	b_track12	CL_to_reduce
+B	b_track13	CL_to_reduce
+B	b_track14	CL_to_reduce
+B	b_track15	CL_to_reduce
+B	b_track16	CL_to_reduce
+
+
+
+
+
+
+

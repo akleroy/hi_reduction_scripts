@@ -1,0 +1,39 @@
+# Column 1: MS Name
+# Column 2: Config
+# Column 3: Name to Use
+# Column 4: Directory for Raw Data
+# Column 5: Flag to import in script
+11B-124.sb5334017.eb5769266.55867.351589467595.ms	D	d_track1	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+11B-124.sb5334017.eb5770285.55868.35039530093.ms	D	d_track2	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+11B-124.sb5334017.eb5794981.55872.243100023145.ms	D	d_track3	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+11B-124.sb5334017.eb5886098.55875.214899375.ms		D	d_track4	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+11B-124.sb5338463.eb5670977.55851.2071834838.ms		D	d_track5	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb7970318.eb8085519.55957.97796372685.ms	C	c_track1	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb8114290.eb8180574.55959.97224469908.ms	C	c_track2	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb8114290.eb8461054.55967.91770480324.ms	C	c_track3	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb8114290.eb8468712.55969.88282452546.ms	C	c_track4	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb8114290.eb8485759.55970.887056990745.ms	C	c_track5	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb8114290.eb9212752.55991.874506064814.ms	C	c_track6 	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb10238318.eb10469213.56072.43419290509.ms	B	b_track1	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb10238318.eb10609614.56084.4025846875.ms	B	b_track2	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb10238318.eb10646258.56087.68530474537.ms	B	b_track3	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb10238318.eb10659229.56090.40704997685.ms	B	b_track4	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb10238318.eb10723692.56097.346373865745.ms	B	b_track5	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb10238318.eb10730397.56098.385159212965.ms	B	b_track6	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb10238318.eb10755145.56105.38652262732.ms	B	b_track7	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb10238318.eb10767966.56106.342561944446.ms	B	b_track8	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb10238318.eb10898228.56107.31670350694.ms	B	b_track9	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb10238318.eb10904840.56108.316305162036.ms	B	b_track10	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb10898232.eb10911472.56111.30686621528.ms	B	b_track11	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb10898232.eb10991420.56112.3253053588.ms	B	b_track12	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb10898232.eb10996855.56113.34422515046.ms	B	b_track13	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb10898232.eb11189126.56124.35555497685.ms	B	b_track14	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb10898232.eb11190293.56125.32182981481.ms	B	b_track15	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+12A-304.sb11540764.eb11599365.56164.495641203706.ms	B	b_track16	/net/mousetrap/export/data/aleroy-data_1/evla_m31/ n
+
+
+
+
+
+
+
